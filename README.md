@@ -1,6 +1,13 @@
 # erpnext-develop
 
 A development fork of [ERPNext](https://erpnext.com), one of the leading open-source ERP solutions built primarily in Python and JavaScript. This repository is intended for customizations, feature development, and experimentation on top of the core ERPNext platform.
+<div align="center">
+	<a href="https://erpnext-demo.frappe.cloud/api/method/erpnext_demo.erpnext_demo.auth.login_demo">Live Demo</a>
+	-
+	<a href="https://frappe.io/erpnext">Website</a>
+	-
+	<a href="https://docs.frappe.io/erpnext/">Documentation</a>
+</div>
 
 ## Table of Contents
 
